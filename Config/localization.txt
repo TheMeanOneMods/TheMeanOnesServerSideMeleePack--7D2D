@@ -1,0 +1,9 @@
+Key,File,English
+TheMeanOne_Melee_MailBoxBat,Item,MailBox Bat
+TheMeanOne_Melee_MailBoxBatDesc,Item,A Bad Ass Mailbox bat to bash zeds heads in!
+
+TheMeanOne_Melee_UmbrellaSpear,Item,Weak Umbrella Spear
+TheMeanOne_Melee_UmbrellaSpearDesc,Item,A cheap alternative to jab zeds with - bring on the rain!
+
+TheMeanOne_Melee_ParkingMeterBat,Item,Parking Meter of Death
+TheMeanOne_Melee_ParkingMeterBatDesc,Item,These Zeds didnt pay to park so lets beat the change out of them!
