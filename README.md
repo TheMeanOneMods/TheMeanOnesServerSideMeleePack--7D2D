@@ -25,5 +25,9 @@ Community-Driven Expansion: This is just the beginning! I plan to expand this mo
 # Feedback Encouraged:
 Join the conversation in Discord! Share your ide
 
+
+Permissions:
+You do not have permission to use this Modlet in any Overhaul without my permission. You can not re distribute this mod without my permission. Reach out on Discord if you need to use this in an Overhaul.
+
 Discord Link:
 https://discord.gg/jvDuq9SUQR
